@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    { "item": "crossbreeding:female_gamete" },
+    { "item": "crossbreeding:male_gamete" }
+  ],
+  "result": {
+    "id": "crossbreeding:crossbreeding_seed",
+    "count": 1
+  }
+}

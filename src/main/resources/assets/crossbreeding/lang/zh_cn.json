@@ -1,0 +1,20 @@
+{
+  "itemGroup.crossbreeding": "杂交育种",
+
+  "item.crossbreeding.female_gamete": "雌配子",
+  "item.crossbreeding.male_gamete": "雄配子",
+  "item.crossbreeding.crossbreeding_seed": "杂交种子",
+  "item.crossbreeding.crossbreeding_wheat": "杂交小麦",
+
+  "item.crossbreeding.plain_bread": "杂交面包",
+  "item.crossbreeding.high_nutrition_bread": "高饱食面包",
+  "item.crossbreeding.high_saturation_bread": "高饱和面包",
+  "item.crossbreeding.high_nutrition_saturation_bread": "高饱食高饱和面包",
+
+  "block.crossbreeding.crossbreeding_crop": "杂交小麦作物",
+  "block.crossbreeding.diseased_wheat": "染病枯死的小麦",
+
+  "crossbreeding.diseased": "该小麦染病枯死！",
+  "crossbreeding.simple.on": "简单模式已开启",
+  "crossbreeding.simple.off": "简单模式已关闭"
+}

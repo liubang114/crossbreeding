@@ -1,0 +1,19 @@
+{
+  "itemGroup.crossbreeding": "Crossbreeding",
+
+  "item.crossbreeding.female_gamete": "Female Gamete",
+  "item.crossbreeding.male_gamete": "Male Gamete",
+  "item.crossbreeding.crossbreeding_seed": "Crossbreeding Seed",
+
+  "item.crossbreeding.plain_bread": "Crossbreeding Bread",
+  "item.crossbreeding.high_nutrition_bread": "High Nutrition Bread",
+  "item.crossbreeding.high_saturation_bread": "High Saturation Bread",
+  "item.crossbreeding.high_nutrition_saturation_bread": "High Nutrition & Saturation Bread",
+
+  "block.crossbreeding.crossbreeding_crop": "Crossbreeding Wheat",
+  "block.crossbreeding.diseased_wheat": "Diseased Wheat",
+
+  "crossbreeding.diseased": "This wheat is diseased and withered!",
+  "crossbreeding.simple.on": "Simple mode enabled",
+  "crossbreeding.simple.off": "Simple mode disabled"
+}
